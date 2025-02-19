@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hw-level-tuesday/static/css/main.0df37cfa.css",
-    "main.js": "/hw-level-tuesday/static/js/main.c0f64ddb.js",
+    "main.css": "/hw-level-tuesday/static/css/main.b770694f.css",
+    "main.js": "/hw-level-tuesday/static/js/main.26a21b23.js",
     "static/js/787.66cb4309.chunk.js": "/hw-level-tuesday/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/hw-level-tuesday/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/checked.svg": "/hw-level-tuesday/static/media/checked.0b6a1bcf5d417ff0a947.svg",
     "index.html": "/hw-level-tuesday/index.html",
-    "main.0df37cfa.css.map": "/hw-level-tuesday/static/css/main.0df37cfa.css.map",
-    "main.c0f64ddb.js.map": "/hw-level-tuesday/static/js/main.c0f64ddb.js.map",
+    "main.b770694f.css.map": "/hw-level-tuesday/static/css/main.b770694f.css.map",
+    "main.26a21b23.js.map": "/hw-level-tuesday/static/js/main.26a21b23.js.map",
     "787.66cb4309.chunk.js.map": "/hw-level-tuesday/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0df37cfa.css",
-    "static/js/main.c0f64ddb.js"
+    "static/css/main.b770694f.css",
+    "static/js/main.26a21b23.js"
   ]
 }
