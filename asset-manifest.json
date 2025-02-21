@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/hw-level-tuesday/static/css/main.2bbc6fe7.css",
-    "main.js": "/hw-level-tuesday/static/js/main.d0c91782.js",
+    "main.css": "/hw-level-tuesday/static/css/main.90c5c931.css",
+    "main.js": "/hw-level-tuesday/static/js/main.b2fd9b76.js",
     "static/js/787.66cb4309.chunk.js": "/hw-level-tuesday/static/js/787.66cb4309.chunk.js",
-    "static/media/checked.svg": "/hw-level-tuesday/static/media/checked.0b6a1bcf5d417ff0a947.svg",
+    "static/media/closeOutline.svg": "/hw-level-tuesday/static/media/closeOutline.91a6693133923612a0702421ab3e9923.svg",
     "index.html": "/hw-level-tuesday/index.html",
-    "main.2bbc6fe7.css.map": "/hw-level-tuesday/static/css/main.2bbc6fe7.css.map",
-    "main.d0c91782.js.map": "/hw-level-tuesday/static/js/main.d0c91782.js.map",
+    "static/media/burger.svg": "/hw-level-tuesday/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
+    "main.90c5c931.css.map": "/hw-level-tuesday/static/css/main.90c5c931.css.map",
+    "main.b2fd9b76.js.map": "/hw-level-tuesday/static/js/main.b2fd9b76.js.map",
     "787.66cb4309.chunk.js.map": "/hw-level-tuesday/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bbc6fe7.css",
-    "static/js/main.d0c91782.js"
+    "static/css/main.90c5c931.css",
+    "static/js/main.b2fd9b76.js"
   ]
 }
