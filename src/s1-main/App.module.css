@@ -3,9 +3,11 @@
 }
 
 .hw {
-
+padding: 45px 10px;
 }
 
 .hwTitle {
-
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
 }

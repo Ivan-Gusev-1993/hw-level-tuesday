@@ -5,18 +5,28 @@
 }
 
 .users {
+    width: 530px;
 }
 
 .buttonsContainer {
+    margin-bottom: 15px;
+    display: flex;
+    gap: 10px;
 }
 
 .container {
 }
 
 .thead {
+    background-color: #E5E5E5;
+    width: 530px;
+    height: 30px;
+    border-style: hidden;
+    font-weight: bolder;
 }
 
 .nameCol {
+    padding: 5px 20px;
 }
 
 .ageCol {

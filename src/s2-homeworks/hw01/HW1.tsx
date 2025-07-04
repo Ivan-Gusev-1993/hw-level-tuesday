@@ -6,16 +6,18 @@ import FriendMessage from './friend-message/FriendMessage'
 import avatar from './avatar.png'
 
 /*
-* 1 - описать тип MessageType
-* 2 - описать тип MessagePropsType в файле Message.tsx
-* 3 - в файле Message.tsx отобразить приходящие данные
-* 4 - выполнить пункты 2, 3 в файле FriendMessage.tsx
-* 5 - сделать стили в соответствии с дизайном
+* 1 - описать тип MessageType ++++
+* 2 - описать тип MessagePropsType в файле Message.tsx ++++
+* 3 - в файле Message.tsx отобразить приходящие данные ++++
+* 4 - выполнить пункты 2, 3 в файле FriendMessage.tsx ++++
+* 5 - сделать стили в соответствии с дизайном ++++
 * */
 
-export type MessageUserType = {
-    text: string
-    time: string
+// нужно создать правильный тип вместо any
+export type MessageType = {
+    id: number
+    user: UserType
+    message: MessageObjType
 }
 
 export type UserType = {
@@ -23,10 +25,9 @@ export type UserType = {
     name: string
 }
 
-export type MessageType = {
-    id: number
-    user: UserType
-    message: MessageUserType
+export type MessageObjType = {
+    text: string
+    time: string
 }
 
 // структуру объекта не менять
@@ -37,19 +38,19 @@ export const message0: MessageType = {
         name: 'Ivan',  // можно менять
     },
     message: {
-        text: 'Hello my sweet baby', // можно менять
-        time: '22:00', // можно менять
+        text: 'Hello, she didn’t do anything and rested all day, how are you?', // можно менять
+        time: '09:01', // можно менять
     },
 }
 export const friendMessage0: MessageType = {
     id: 100,
     user: {
         avatar: avatar, // можно менять
-        name: 'Alina', // можно менять
+        name: 'Vasya', // можно менять
     },
     message: {
-        text: 'hello', // можно менять
-        time: '22:00', // можно менять
+        text: 'Hello, how are you, what did you do yesterday?', // можно менять
+        time: '09:00', // можно менять
     },
 }
 

@@ -1,25 +1,63 @@
 .sidebar {
+    background-color: #fff;
+    left: -100%;
+    min-height: 100vh;
+    position: fixed;
+    top: 0;
+    transition: all .3s ease 0s;
+    width: 20rem;
+    z-index: 2;
 }
 
 .sidebar.open {
+    left: 0;
 }
 
 .background {
+    background-color: rgba(0,0,0,.5);
+    left: 0;
+    min-height: 1000vh;
+    min-width: 100vw;
+    position: absolute;
+    top: 0;
+    z-index: 2;
 }
 
 .nav {
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+    padding: 63px;
+
 }
 
 .nav a {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    text-decoration-line: none;
+    color: #000000;
 }
 
 .nav a:hover {
+    color: #58ACFF;
 }
 
 .nav a.active {
+    color: #0059B2;
+    text-decoration-line: revert;
 }
+
 .close {
+    background-color: initial;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+    top: 0;
 }
 
 .close img {
+    padding: 0.5rem;
 }

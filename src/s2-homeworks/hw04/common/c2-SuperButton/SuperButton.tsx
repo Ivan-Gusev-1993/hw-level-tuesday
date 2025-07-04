@@ -18,10 +18,7 @@ const SuperButton: React.FC<SuperButtonPropsType> = (
     }
 ) => {
     const finalClassName = s.button
-        // + (disabled
-        //         ? ...
-        //         : xType === 'red'
-        //             ? ...
+         + (disabled ? ' ' + s.disabled : xType === 'red' ? ' ' + s.red : restProps.id === 'hw4-super-button-default'? ' ' + s.default : ' ' + s.secondary)
         + (className ? ' ' + className : '') // задачка на смешивание классов
 
     return (

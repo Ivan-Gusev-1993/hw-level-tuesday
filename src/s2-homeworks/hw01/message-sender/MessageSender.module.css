@@ -20,14 +20,12 @@
     border-radius: 20px;
     width: 120px;
     height: 40px;
-    color: #D9D9D9;
-    font-weight: bold;
 }
 
 .button:hover {
-    background-color: cornflowerblue;
+
 }
 
 .button:active {
-    background-color: deeppink;
+
 }
