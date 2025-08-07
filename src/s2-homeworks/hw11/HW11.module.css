@@ -1,8 +1,13 @@
 .container {
+   /*display: block;*/
 }
 
 .wrapper {
+    max-width: 300px;
+    margin-left: 100px;
 }
 
 .number {
+    color: darkslateblue;
+    font-weight: bold;
 }
