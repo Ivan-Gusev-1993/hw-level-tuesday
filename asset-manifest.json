@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hw-level-tuesday/static/css/main.80ef310d.css",
-    "main.js": "/hw-level-tuesday/static/js/main.57efca32.js",
+    "main.js": "/hw-level-tuesday/static/js/main.515bb002.js",
     "static/js/787.66cb4309.chunk.js": "/hw-level-tuesday/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/hw-level-tuesday/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/hw-level-tuesday/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
@@ -11,11 +11,11 @@
     "index.html": "/hw-level-tuesday/index.html",
     "static/media/burger.svg": "/hw-level-tuesday/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
     "main.80ef310d.css.map": "/hw-level-tuesday/static/css/main.80ef310d.css.map",
-    "main.57efca32.js.map": "/hw-level-tuesday/static/js/main.57efca32.js.map",
+    "main.515bb002.js.map": "/hw-level-tuesday/static/js/main.515bb002.js.map",
     "787.66cb4309.chunk.js.map": "/hw-level-tuesday/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80ef310d.css",
-    "static/js/main.57efca32.js"
+    "static/js/main.515bb002.js"
   ]
 }
