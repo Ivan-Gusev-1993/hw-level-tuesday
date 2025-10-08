@@ -34,6 +34,7 @@ const HW14 = () => {
         setLoading(true)
         getTechs(value)
             .then((res) => {
+
                 // делает студент
 
                 // сохранить пришедшие данные
@@ -41,6 +42,7 @@ const HW14 = () => {
                 //
             })
     }
+
 
     const onChangeText = (value: string) => {
         setFind(value)
