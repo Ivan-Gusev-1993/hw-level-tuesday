@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Ivan-Gusev-1993/hw-level-tuesday.git/static/css/main.edf9f789.css",
-    "main.js": "/Ivan-Gusev-1993/hw-level-tuesday.git/static/js/main.8347150f.js",
-    "static/js/787.67f55d8d.chunk.js": "/Ivan-Gusev-1993/hw-level-tuesday.git/static/js/787.67f55d8d.chunk.js",
-    "static/media/avatar.png": "/Ivan-Gusev-1993/hw-level-tuesday.git/static/media/avatar.d947cb9d0d13765666b6.png",
-    "static/media/200.svg": "/Ivan-Gusev-1993/hw-level-tuesday.git/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
-    "static/media/error.svg": "/Ivan-Gusev-1993/hw-level-tuesday.git/static/media/error.5a3135f381b00b53044eff200e725391.svg",
-    "static/media/500.svg": "/Ivan-Gusev-1993/hw-level-tuesday.git/static/media/500.adbc5f265f6f3c1fb9c5633ffe365afa.svg",
-    "static/media/400.svg": "/Ivan-Gusev-1993/hw-level-tuesday.git/static/media/400.8baa1b795048b6fa13ff8d30800aa1b1.svg",
-    "static/media/404.svg": "/Ivan-Gusev-1993/hw-level-tuesday.git/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
-    "static/media/closeOutline.svg": "/Ivan-Gusev-1993/hw-level-tuesday.git/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
-    "static/media/editIcon.svg": "/Ivan-Gusev-1993/hw-level-tuesday.git/static/media/editIcon.0a0cefd2190b593b4f76bb1a5afe0c1f.svg",
-    "index.html": "/Ivan-Gusev-1993/hw-level-tuesday.git/index.html",
-    "static/media/checked.svg": "/Ivan-Gusev-1993/hw-level-tuesday.git/static/media/checked.b75ca55e8759862b4083.svg",
-    "static/media/burger.svg": "/Ivan-Gusev-1993/hw-level-tuesday.git/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.edf9f789.css.map": "/Ivan-Gusev-1993/hw-level-tuesday.git/static/css/main.edf9f789.css.map",
-    "main.8347150f.js.map": "/Ivan-Gusev-1993/hw-level-tuesday.git/static/js/main.8347150f.js.map",
-    "787.67f55d8d.chunk.js.map": "/Ivan-Gusev-1993/hw-level-tuesday.git/static/js/787.67f55d8d.chunk.js.map"
+    "main.css": "/hw-level-tuesday/static/css/main.c8f1118b.css",
+    "main.js": "/hw-level-tuesday/static/js/main.bc1926e7.js",
+    "static/js/787.67f55d8d.chunk.js": "/hw-level-tuesday/static/js/787.67f55d8d.chunk.js",
+    "static/media/avatar.png": "/hw-level-tuesday/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/200.svg": "/hw-level-tuesday/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
+    "static/media/error.svg": "/hw-level-tuesday/static/media/error.5a3135f381b00b53044eff200e725391.svg",
+    "static/media/500.svg": "/hw-level-tuesday/static/media/500.adbc5f265f6f3c1fb9c5633ffe365afa.svg",
+    "static/media/400.svg": "/hw-level-tuesday/static/media/400.8baa1b795048b6fa13ff8d30800aa1b1.svg",
+    "static/media/404.svg": "/hw-level-tuesday/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
+    "static/media/closeOutline.svg": "/hw-level-tuesday/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
+    "static/media/editIcon.svg": "/hw-level-tuesday/static/media/editIcon.0a0cefd2190b593b4f76bb1a5afe0c1f.svg",
+    "static/media/checked.svg": "/hw-level-tuesday/static/media/checked.b75ca55e8759862b4083.svg",
+    "index.html": "/hw-level-tuesday/index.html",
+    "static/media/burger.svg": "/hw-level-tuesday/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
+    "main.c8f1118b.css.map": "/hw-level-tuesday/static/css/main.c8f1118b.css.map",
+    "main.bc1926e7.js.map": "/hw-level-tuesday/static/js/main.bc1926e7.js.map",
+    "787.67f55d8d.chunk.js.map": "/hw-level-tuesday/static/js/787.67f55d8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.edf9f789.css",
-    "static/js/main.8347150f.js"
+    "static/css/main.c8f1118b.css",
+    "static/js/main.bc1926e7.js"
   ]
 }
