@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import s2 from '../../s1-main/App.module.css';
 import s from './HW13.module.css';
 import SuperButton from '../hw04/common/c2-SuperButton/SuperButton';
