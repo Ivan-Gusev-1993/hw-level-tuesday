@@ -1,11 +1,14 @@
 .pagination {
     display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 36px;
+
+    select {
+        max-width: 50px;
+    }
 }
 
-.text1 {
+.text1 {}
 
-}
-
-.text2 {
-
-}
+.text2 {}
