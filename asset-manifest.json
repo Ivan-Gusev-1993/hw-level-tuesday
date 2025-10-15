@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hw-level-tuesday/static/css/main.539a51da.css",
-    "main.js": "/hw-level-tuesday/static/js/main.4b31b14a.js",
+    "main.js": "/hw-level-tuesday/static/js/main.c1d80fc7.js",
     "static/js/787.66cb4309.chunk.js": "/hw-level-tuesday/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/hw-level-tuesday/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/200.svg": "/hw-level-tuesday/static/media/200.96248f7df0dde10e0a82ac30418f50bc.svg",
@@ -18,11 +18,11 @@
     "index.html": "/hw-level-tuesday/index.html",
     "static/media/burger.svg": "/hw-level-tuesday/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
     "main.539a51da.css.map": "/hw-level-tuesday/static/css/main.539a51da.css.map",
-    "main.4b31b14a.js.map": "/hw-level-tuesday/static/js/main.4b31b14a.js.map",
+    "main.c1d80fc7.js.map": "/hw-level-tuesday/static/js/main.c1d80fc7.js.map",
     "787.66cb4309.chunk.js.map": "/hw-level-tuesday/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.539a51da.css",
-    "static/js/main.4b31b14a.js"
+    "static/js/main.c1d80fc7.js"
   ]
 }
